@@ -15,4 +15,4 @@ Configuration files for my arch linux environment using the i3 window manager.
 - Gnome Terminal Theme: **Solarized**
 - Bumblebee Status Theme: **solarized-powerline**
 
-My first rice. Decided to do this when I got an ultra-wide monitor so that I could use the screen more efficiently when my final year of uni begins in October. Shocked at how much more efficientlty I can use this than windows.
+My first rice. Decided to do this when I got an ultra-wide monitor so that I could use the screen more efficiently when my final year of uni begins in October. Shocked at how much more efficiently I can use this than windows.
